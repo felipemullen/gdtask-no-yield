@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "gruntfuggly.triggertaskonsave"
+    ],
+    "unwantedRecommendations": [
+        "ms-dotnettools.csdevkit"
+    ]
+}
